@@ -1,0 +1,63 @@
+<svg height="958" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="958" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">10 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ express-hbs@1.0.4 </tspan>
+<tspan x="10" y="90">  ├─┬ handlebars@4.0.6 </tspan>
+<tspan x="10" y="106">  │ ├── async@1.5.2 </tspan>
+<tspan x="10" y="122">  │ ├─┬ optimist@0.6.1 </tspan>
+<tspan x="10" y="138">  │ │ ├── minimist@0.0.10 </tspan>
+<tspan x="10" y="154">  │ │ └── wordwrap@0.0.3 </tspan>
+<tspan x="10" y="170">  │ ├─┬ source-map@0.4.4 </tspan>
+<tspan x="10" y="186">  │ │ └── amdefine@1.0.1 </tspan>
+<tspan x="10" y="202">  │ └─┬ uglify-js@2.8.22 </tspan>
+<tspan x="10" y="218">  │   ├── source-map@0.5.6 </tspan>
+<tspan x="10" y="234">  │   ├── uglify-to-browserify@1.0.2 </tspan>
+<tspan x="10" y="250">  │   └─┬ yargs@3.10.0 </tspan>
+<tspan x="10" y="266">  │     ├── camelcase@1.2.1 </tspan>
+<tspan x="10" y="282">  │     ├─┬ cliui@2.1.0 </tspan>
+<tspan x="10" y="298">  │     │ ├─┬ center-align@0.1.3 </tspan>
+<tspan x="10" y="314">  │     │ │ ├─┬ align-text@0.1.4 </tspan>
+<tspan x="10" y="330">  │     │ │ │ ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="346">  │     │ │ │ │ └── is-buffer@1.1.5 </tspan>
+<tspan x="10" y="362">  │     │ │ │ ├── longest@1.0.1 </tspan>
+<tspan x="10" y="378">  │     │ │ │ └── repeat-string@1.6.1 </tspan>
+<tspan x="10" y="394">  │     │ │ └── lazy-cache@1.0.4 </tspan>
+<tspan x="10" y="410">  │     │ ├── right-align@0.1.3 </tspan>
+<tspan x="10" y="426">  │     │ └── wordwrap@0.0.2 </tspan>
+<tspan x="10" y="442">  │     ├── decamelize@1.2.0 </tspan>
+<tspan x="10" y="458">  │     └── window-size@0.1.0 </tspan>
+<tspan x="10" y="474">  ├─┬ js-beautify@1.6.8 </tspan>
+<tspan x="10" y="490">  │ ├─┬ config-chain@1.1.11 </tspan>
+<tspan x="10" y="506">  │ │ ├── ini@1.3.4 </tspan>
+<tspan x="10" y="522">  │ │ └── proto-list@1.2.4 </tspan>
+<tspan x="10" y="538">  │ ├─┬ editorconfig@0.13.2 </tspan>
+<tspan x="10" y="554">  │ │ ├── bluebird@3.5.0 </tspan>
+<tspan x="10" y="570">  │ │ ├─┬ commander@2.9.0 </tspan>
+<tspan x="10" y="586">  │ │ │ └── graceful-readlink@1.0.1 </tspan>
+<tspan x="10" y="602">  │ │ ├─┬ lru-cache@3.2.0 </tspan>
+<tspan x="10" y="618">  │ │ │ └── pseudomap@1.0.2 </tspan>
+<tspan x="10" y="634">  │ │ └── sigmund@1.0.1 </tspan>
+<tspan x="10" y="650">  │ ├─┬ mkdirp@0.5.1 </tspan>
+<tspan x="10" y="666">  │ │ └── minimist@0.0.8 </tspan>
+<tspan x="10" y="682">  │ └─┬ nopt@3.0.6 </tspan>
+<tspan x="10" y="698">  │   └── abbrev@1.1.0 </tspan>
+<tspan x="10" y="714">  └─┬ readdirp@2.1.0 </tspan>
+<tspan x="10" y="730">    ├── graceful-fs@4.1.11 </tspan>
+<tspan x="10" y="746">    ├─┬ minimatch@3.0.3 </tspan>
+<tspan x="10" y="762">    │ └─┬ brace-expansion@1.1.7 </tspan>
+<tspan x="10" y="778">    │   ├── balanced-match@0.4.2 </tspan>
+<tspan x="10" y="794">    │   └── concat-map@0.0.1 </tspan>
+<tspan x="10" y="810">    ├─┬ readable-stream@2.2.9 </tspan>
+<tspan x="10" y="826">    │ ├── buffer-shims@1.0.0 </tspan>
+<tspan x="10" y="842">    │ ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="858">    │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="874">    │ ├── isarray@1.0.0 </tspan>
+<tspan x="10" y="890">    │ ├── process-nextick-args@1.0.7 </tspan>
+<tspan x="10" y="906">    │ ├── string_decoder@1.0.0 </tspan>
+<tspan x="10" y="922">    │ └── util-deprecate@1.0.2 </tspan>
+<tspan x="10" y="938">    └── set-immediate-shim@1.0.1</tspan>
+</text>
+</svg>
