@@ -1,6 +1,6 @@
 # npmtest-express-hbs
 
-#### test coverage for  [express-hbs (v1.0.4)](https://github.com/barc/express-hbs#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-express-hbs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-hbs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-hbs.svg)](https://travis-ci.org/npmtest/node-npmtest-express-hbs)
+#### basic test coverage for  [express-hbs (v1.0.4)](https://github.com/barc/express-hbs#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-express-hbs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-hbs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-hbs.svg)](https://travis-ci.org/npmtest/node-npmtest-express-hbs)
 
 #### Express 3 handlebars template engine complete with multiple layouts, partials and blocks.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-express-hbs/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-express-hbs/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-express-hbs/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-express-hbs/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-express-hbs/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-express-hbs/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-express-hbs/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-express-hbs/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-express-hbs/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-express-hbs/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-express-hbs/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-express-hbs/build/coverage.html/index.html)
 
@@ -95,7 +95,8 @@
         "coverage": "NODE_ENV=testing ./node_modules/.bin/istanbul cover --dir test/coverage -x 'example/**' ./node_modules/.bin/_mocha",
         "test": "grunt"
     },
-    "version": "1.0.4"
+    "version": "1.0.4",
+    "bin": {}
 }
 ```
 
